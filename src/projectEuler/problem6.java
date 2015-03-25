@@ -1,6 +1,5 @@
 package projectEuler;
 
-import java.math.*;
 
 public class problem6 {
 	
